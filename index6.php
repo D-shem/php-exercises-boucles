@@ -3,7 +3,7 @@
 
 $i = 20;
 while ($i >= 0) {
-	echo $i."  "."On y arrive presque"."<br/>";
+	echo $i."  "."C'est presque bon"."<br/>";
 	$i--;
 
  } 
